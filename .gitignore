@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+build/
+.env
+*.orig.*
+web-build/
+.DS_Store
+
+# EAS
+.easignore
+google-play-service-account.json
